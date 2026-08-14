@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  4 anos de experiência em Testes Manuais · E2E · Integração · Regressão
+  3 anos de experiência em Testes Manuais · E2E · Integração · Regressão
 </p>
 
 <p align="center">
