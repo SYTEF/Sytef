@@ -31,7 +31,7 @@
 
 Atualmente estou desenvolvendo meus conhecimentos em testes de API, automação e performance através de projetos pessoais.
 
-### 🔬 [QA Project MID Valid](https://github.com/SYTEF/qa-project-mid-valid)
+###  [QA Project MID Valid](https://github.com/SYTEF/qa-project-mid-valid)
 
 Projeto de estudo voltado para validação de regras de negócio, integridade de transações e comportamento de APIs.
 
@@ -84,7 +84,7 @@ Atuação com testes manuais em terminais POS/TEF e sistemas de pagamento integr
 ### Dados e versionamento
 `SQL` · `Git` · `GitHub`
 
-## 🎓 Formação e cursos
+##  Formação e cursos
 
 ### Técnico em Desenvolvimento de Sistemas — Senac-SP
 **Conclusão prevista:** Outubro/2026
