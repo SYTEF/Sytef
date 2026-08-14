@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Enzo Borsato</h1>
+<h1 align="center">Enzo Borsato</h1>
 
 <h3 align="center">
   QA Analyst | Software Quality Assurance
