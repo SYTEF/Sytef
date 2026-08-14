@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Analista de QA com 4 anos de experiência em ambientes corporativos de alta demanda, atuando com testes funcionais, exploratórios, E2E, integração, sanity, regressão e UAT.
+Analista de QA com 3 anos de experiência em ambientes corporativos de alta demanda, atuando com testes funcionais, exploratórios, E2E, integração, sanity, regressão e UAT.
 
 Tenho experiência na criação e evolução de casos e suítes de teste, documentação de evidências, análise de logs, rastreabilidade de defeitos e validação de fluxos envolvendo múltiplos sistemas.
 
