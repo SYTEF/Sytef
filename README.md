@@ -88,19 +88,13 @@ Atuação com testes manuais em terminais POS/TEF e sistemas de pagamento integr
 ### Dados e versionamento
 `SQL` · `Git` · `GitHub`
 
-##  Formação e cursos
+## 🎓 Formação e cursos
 
 ### Técnico em Desenvolvimento de Sistemas — Senac-SP
-Conclusão prevista: Dezembro/2026
+**Conclusão prevista:** Outubro/2026
 
-Principais áreas de estudo:
-- Lógica de programação
-- Orientação a objetos
-- Banco de dados
-- Desenvolvimento web
-- Git & GitHub
-- Integração com banco de dados
-- Fundamentos de testes de software
+**Principais áreas de estudo:**  
+`Lógica de Programação` · `OOP` · `Banco de Dados` · `Desenvolvimento Web` · `Git/GitHub` · `Integração com Banco de Dados` · `Testes de Software`
 
 ### Cursos complementares
 - Teste de Software — Udemy
