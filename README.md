@@ -51,29 +51,31 @@ Projeto de estudo voltado para validação de regras de negócio, integridade de
 
 ##  Experiência profissional
 
-### Vivo / Telefônica
-Atuação com QA em plataforma de vendas utilizada por vendedores, executando testes funcionais, exploratórios, E2E, integração, sanity, regressão e UAT.
+###  Vivo / Telefônica — QA
 
-Principais atividades:
-- Criação e evolução de casos de teste
-- Construção de suíte regressiva do app Vivo+
-- Registro de evidências com imagens, vídeos e logs
-- Abertura e acompanhamento de defeitos via Jira
-- Rastreabilidade de bugs com AIO Tests
-- Validação de fluxos de venda, login, cadastro e checkout
-- Participação em dailies, plannings e discussões de viabilidade de testes
+Atuação em plataforma de vendas utilizada por vendedores, realizando validações funcionais e E2E em um ambiente com múltiplos sistemas integrados.
 
-### Gertec
-Atuação com testes manuais em terminais POS e sistemas de pagamento.
+**Principais atividades e entregas:**
+- Planejamento e execução de testes funcionais, exploratórios, sanity, regressão, integração, E2E e UAT
+- Criação e evolução da suíte regressiva do app Vivo+, estruturando cenários, passos, resultados esperados e evidências
+- Validação de fluxos de login, cadastro, vendas, checkout e novas funcionalidades da plataforma
+- Execução de fluxo E2E integrado ao SAP, validando a consistência das informações após a finalização da venda
+- Identificação de divergência em regra de negócio envolvendo retorno incorreto de código de taxa
+- Registro e acompanhamento de defeitos no Jira com evidências, vídeos, imagens e logs
+- Rastreabilidade entre defeitos e casos de teste através do AIO Tests
+- Participação em dailies e plannings, contribuindo na análise de riscos e viabilidade dos testes junto a POs, GPs e Desenvolvimento
 
-Principais atividades:
+###  Gertec — QA
+
+Atuação com testes manuais em terminais POS/TEF e sistemas de pagamento integrados a hardware.
+
+**Principais atividades:**
 - Testes de crédito, débito, Pix, cancelamento e estorno
-- Validação de integração entre software e hardware
-- Testes de impressão e comunicação do terminal
-- Execução de testes de rota
-- Criação e execução de casos de teste
-- Análise e acompanhamento de defeitos
-
+- Validação de impressão, comunicação e comportamento do terminal
+- Testes de integração entre software e hardware
+- Execução de testes de rota para garantir que alterações na aplicação não modificassem resultados esperados
+- Criação, execução e aprimoramento de casos de teste
+- Investigação, reprodução e acompanhamento de defeitos
 ##  Tecnologias e conhecimentos em desenvolvimento
 
 - SQL
