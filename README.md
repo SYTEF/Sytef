@@ -124,5 +124,5 @@ Aplicação desktop desenvolvida em Java para cadastro, gerenciamento e acompanh
 
 ## Contato
 
-**LinkedIn:** coloque aqui seu link  
+**LinkedIn:** https://www.linkedin.com/in/enzoborsato/
 **E-mail:** Enzoborsato99@outlook.com
