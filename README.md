@@ -14,16 +14,14 @@
 
 ##  Especialidades em QA
 
-- Testes Funcionais
-- Testes Exploratórios
-- Testes E2E
-- Testes de Integração
-- Testes de Regressão
-- Sanity Testing
-- UAT
-- Criação e evolução de casos de teste
-- Documentação de evidências, logs e resultados
-- Gestão e rastreabilidade de defeitos
+| Testes | Processos |
+|---|---|
+| Testes Funcionais | Criação e evolução de casos de teste |
+| Testes Exploratórios | Documentação de evidências |
+| Testes E2E | Coleta de logs e resultados |
+| Testes de Integração | Gestão de defeitos |
+| Testes de Regressão | Rastreabilidade de bugs |
+| Sanity Testing | UAT |
 
 ##  Ferramentas profissionais
 
