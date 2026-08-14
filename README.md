@@ -31,11 +31,7 @@
 
 Atualmente estou desenvolvendo meus conhecimentos em testes de API, automação e performance através de projetos pessoais.
 
-##  Projetos e estudos técnicos
-
-Atualmente estou aprofundando meus conhecimentos em testes de API, automação e performance através de projetos pessoais.
-
-###  QA Project MID Valid
+### 🔬 [QA Project MID Valid](https://github.com/SYTEF/qa-project-mid-valid)
 
 Projeto de estudo voltado para validação de regras de negócio, integridade de transações e comportamento de APIs.
 
