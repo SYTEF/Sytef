@@ -5,14 +5,26 @@
 </h3>
 
 <p align="center">
-  4 anos de experiência em Testes Manuais • E2E • Integração • Regressão
+  4 anos de experiência em Testes Manuais · E2E · Integração · Regressão
 </p>
 
 <p align="center">
   Atualmente aprofundando conhecimentos em API Testing e Automação
 </p>
 
-##  Especialidades em QA
+---
+
+## Sobre mim
+
+Analista de QA com 4 anos de experiência em ambientes corporativos de alta demanda, atuando com testes funcionais, exploratórios, E2E, integração, sanity, regressão e UAT.
+
+Tenho experiência na criação e evolução de casos e suítes de teste, documentação de evidências, análise de logs, rastreabilidade de defeitos e validação de fluxos envolvendo múltiplos sistemas.
+
+Atualmente amplio meus conhecimentos em testes de API e automação através de estudos e projetos pessoais.
+
+---
+
+## Especialidades em QA
 
 | Testes | Processos |
 |---|---|
@@ -23,80 +35,94 @@
 | Testes de Regressão | Rastreabilidade de bugs |
 | Sanity Testing | UAT |
 
-##  Ferramentas profissionais
+---
+
+## Ferramentas profissionais
 
 `Jira` · `AIO Tests` · `TestRail` · `Figma` · `N8N`
 
-##  Projetos e estudos técnicos
+---
 
-Atualmente estou desenvolvendo meus conhecimentos em testes de API, automação e performance através de projetos pessoais.
+## Experiência profissional
 
-###  [QA Project MID Valid](https://github.com/SYTEF/qa-project-mid-valid)
+### Vivo / Telefônica — QA
 
-Projeto de estudo voltado para validação de regras de negócio, integridade de transações e comportamento de APIs.
+Atuação em plataforma de vendas utilizada por vendedores, realizando testes funcionais, exploratórios, sanity, regressão, integração, E2E e UAT.
 
-**Tecnologias:**  
+- Criação e evolução da suíte regressiva do Vivo+
+- Validação de fluxos de login, cadastro, venda e checkout
+- Execução de testes E2E envolvendo sistemas integrados e SAP
+- Registro de evidências, vídeos e logs
+- Gestão e rastreabilidade de defeitos via Jira e AIO Tests
+- Participação em dailies, plannings e análise de viabilidade de testes
+
+### Gertec — QA
+
+Atuação com testes manuais em terminais POS/TEF e sistemas de pagamento.
+
+- Testes de crédito, débito, Pix, cancelamento e estorno
+- Validação de integração entre software e hardware
+- Testes de impressão e comunicação
+- Execução de testes de rota
+- Criação e aprimoramento de casos de teste
+- Investigação e acompanhamento de defeitos
+
+---
+
+## Projetos em destaque
+
+### [QA Project MID Valid](https://github.com/SYTEF/qa-project-mid-valid)
+
+Projeto pessoal de QA voltado para testes de API, regras de negócio, integridade de transações e performance em ambiente POS/Backend.
+
 `Robot Framework` · `Python` · `Mockoon` · `Locust`
 
-**Principais estudos aplicados:**
-- Validação de respostas HTTP
-- Cenários positivos e negativos
-- Regras de negócio
-- Testes de API
-- Testes de carga e performance
+---
 
-##  Experiência profissional
+### [Sistema de Gerenciamento de Biblioteca](https://github.com/SYTEF/BibliotecaPI)
 
-###  Vivo / Telefônica — QA
+Aplicação desktop desenvolvida em Java para gerenciamento de livros, usuários, empréstimos e devoluções.
 
-Atuação em plataforma de vendas utilizada por vendedores, realizando validações funcionais e E2E em um ambiente com múltiplos sistemas integrados.
+`Java` · `Java Swing` · `MySQL` · `JDBC`
 
-**Principais atividades e entregas:**
-- Planejamento e execução de testes funcionais, exploratórios, sanity, regressão, integração, E2E e UAT
-- Criação e evolução da suíte regressiva do app Vivo+, estruturando cenários, passos, resultados esperados e evidências
-- Validação de fluxos de login, cadastro, vendas, checkout e novas funcionalidades da plataforma
-- Execução de fluxo E2E integrado ao SAP, validando a consistência das informações após a finalização da venda
-- Identificação de divergência em regra de negócio envolvendo retorno incorreto de código de taxa
-- Registro e acompanhamento de defeitos no Jira com evidências, vídeos, imagens e logs
-- Rastreabilidade entre defeitos e casos de teste através do AIO Tests
-- Participação em dailies e plannings, contribuindo na análise de riscos e viabilidade dos testes junto a POs, GPs e Desenvolvimento
+---
 
-###  Gertec — QA
+### [Sistema de Leilões](https://github.com/SYTEF/leiloesTDSat)
 
-Atuação com testes manuais em terminais POS/TEF e sistemas de pagamento integrados a hardware.
+Aplicação desktop desenvolvida em Java para cadastro, gerenciamento e acompanhamento de produtos em um sistema de leilões.
 
-**Principais atividades:**
-- Testes de crédito, débito, Pix, cancelamento e estorno
-- Validação de impressão, comunicação e comportamento do terminal
-- Testes de integração entre software e hardware
-- Execução de testes de rota para garantir que alterações na aplicação não modificassem resultados esperados
-- Criação, execução e aprimoramento de casos de teste
-- Investigação, reprodução e acompanhamento de defeitos
+`Java` · `Java Swing` · `MySQL` · `JDBC` · `DAO/DTO`
 
-##  Tecnologias e conhecimentos em desenvolvimento
+---
+
+## Tecnologias e conhecimentos em desenvolvimento
 
 ### Testes e QA
 `APIs REST` · `Postman` · `Robot Framework` · `Mockoon` · `Locust`
 
 ### Desenvolvimento
-`Python` · `JavaScript` · `HTML5` · `CSS3` · `Node.js`
+`Java` · `Python` · `JavaScript` · `HTML5` · `CSS3` · `Node.js`
 
 ### Dados e versionamento
-`SQL` · `Git` · `GitHub`
+`SQL` · `MySQL` · `Git` · `GitHub`
 
-##  Formação e cursos
+---
+
+## Formação
 
 ### Técnico em Desenvolvimento de Sistemas — Senac-SP
-**Conclusão prevista:** Outubro/2026
+**Conclusão prevista:** Dezembro/2026
 
-**Principais áreas de estudo:**  
 `Lógica de Programação` · `OOP` · `Banco de Dados` · `Desenvolvimento Web` · `Git/GitHub` · `Integração com Banco de Dados` · `Testes de Software`
 
 ### Cursos complementares
+
 - Teste de Software — Udemy
 - Preparatório para Certificação ISTQB
 
-##  Contato
+---
 
-- LinkedIn: (https://www.linkedin.com/in/enzoborsato)
-- E-mail: Enzoborsato99@outlook.com
+## Contato
+
+**LinkedIn:** coloque aqui seu link  
+**E-mail:** Enzoborsato99@outlook.com
