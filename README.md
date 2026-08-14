@@ -31,16 +31,18 @@
 
 Atualmente estou desenvolvendo meus conhecimentos em testes de API, automação e performance através de projetos pessoais.
 
-### QA Project MID Valid
-Projeto de estudo voltado para validação de regras de negócio e integridade de transações em APIs.
+##  Projetos e estudos técnicos
 
-Tecnologias utilizadas:
-- Robot Framework
-- Python
-- Mockoon
-- Locust
+Atualmente estou aprofundando meus conhecimentos em testes de API, automação e performance através de projetos pessoais.
 
-Principais estudos aplicados:
+###  QA Project MID Valid
+
+Projeto de estudo voltado para validação de regras de negócio, integridade de transações e comportamento de APIs.
+
+**Tecnologias:**  
+`Robot Framework` · `Python` · `Mockoon` · `Locust`
+
+**Principais estudos aplicados:**
 - Validação de respostas HTTP
 - Cenários positivos e negativos
 - Regras de negócio
