@@ -1,10 +1,16 @@
-# 👋 Olá, eu sou Enzo Borsato
+<h1 align="center">👋 Olá, eu sou Enzo Borsato</h1>
 
-### QA Analyst | Software Quality Assurance
+<h3 align="center">
+  QA Analyst | Software Quality Assurance
+</h3>
 
-Analista de QA com 4 anos de experiência em testes manuais, atuando com testes funcionais, E2E, integração, regressão, sanity e UAT em ambientes corporativos de alta demanda.
+<p align="center">
+  4 anos de experiência em Testes Manuais • E2E • Integração • Regressão
+</p>
 
-Atualmente estou aprofundando meus conhecimentos em testes de API e automação através de estudos e projetos pessoais.
+<p align="center">
+  Atualmente aprofundando conhecimentos em API Testing e Automação
+</p>
 
 ##  Especialidades em QA
 
