@@ -76,19 +76,17 @@ Atuação com testes manuais em terminais POS/TEF e sistemas de pagamento integr
 - Execução de testes de rota para garantir que alterações na aplicação não modificassem resultados esperados
 - Criação, execução e aprimoramento de casos de teste
 - Investigação, reprodução e acompanhamento de defeitos
-##  Tecnologias e conhecimentos em desenvolvimento
 
-- SQL
-- Git & GitHub
-- Python
-- JavaScript
-- HTML5 & CSS3
-- Node.js básico
-- APIs REST
-- Postman
-- Robot Framework
-- Mockoon
-- Locust
+## 💻 Tecnologias e conhecimentos em desenvolvimento
+
+### Testes e QA
+`APIs REST` · `Postman` · `Robot Framework` · `Mockoon` · `Locust`
+
+### Desenvolvimento
+`Python` · `JavaScript` · `HTML5` · `CSS3` · `Node.js`
+
+### Dados e versionamento
+`SQL` · `Git` · `GitHub`
 
 ##  Formação e cursos
 
