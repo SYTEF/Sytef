@@ -77,7 +77,7 @@ Atuação com testes manuais em terminais POS/TEF e sistemas de pagamento integr
 - Criação, execução e aprimoramento de casos de teste
 - Investigação, reprodução e acompanhamento de defeitos
 
-## 💻 Tecnologias e conhecimentos em desenvolvimento
+##  Tecnologias e conhecimentos em desenvolvimento
 
 ### Testes e QA
 `APIs REST` · `Postman` · `Robot Framework` · `Mockoon` · `Locust`
