@@ -106,5 +106,5 @@ Principais áreas de estudo:
 
 ##  Contato
 
-- LinkedIn:(https://www.linkedin.com/in/enzoborsato)
+- LinkedIn: (https://www.linkedin.com/in/enzoborsato)
 - E-mail: Enzoborsato99@outlook.com
