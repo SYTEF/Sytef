@@ -25,11 +25,7 @@
 
 ##  Ferramentas profissionais
 
-- Jira
-- AIO Tests
-- TestRail
-- Figma
-- N8N
+`Jira` · `AIO Tests` · `TestRail` · `Figma` · `N8N`
 
 ##  Projetos e estudos técnicos
 
